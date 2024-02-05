@@ -27,4 +27,4 @@ jobs:
     - name: Test
       run: dotnet test --no-build --verbosity normal
     - name: Build the Docker image
-      run: docker build . --file SOLIDCHESS/Dockerfile --tag Solidchess:$(date +%s)
+      run: docker build . --file SOLIDCHESS/Dockerfile --tag solidchess:$(date +%s)
