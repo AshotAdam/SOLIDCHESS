@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SOLIDCHESS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70fbfcb6dc89b4e9aebea89bfa1557536a4b01b0")]
 [assembly: System.Reflection.AssemblyProductAttribute("SOLIDCHESS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SOLIDCHESS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
